@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:ror="http://rorweb.com/0.1/" >
+<channel>
+  <title>ROR Sitemap for http://sizargenius.in/</title>
+  <link>http://sizarschool.com/</link>
+
+<item>
+     <link>http://sizargenius.in/</link>
+     <title>MPSS Sizar Genius School, Jaipur * साइजर जीनियस स्कूल, जयपुर *</title>
+     <description>An english medium day boarding CBSE based school at natraj nagar jaipur</description>
+     <ror:updatePeriod>daily</ror:updatePeriod>
+     <ror:sortOrder>0</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://sizargenius.in/index.html</link>
+     <title>MPSS Sizar Genius School, Jaipur * साइजर जीनियस स्कूल, जयपुर *</title>
+     <description>An english medium day boarding CBSE based school at natraj nagar jaipur</description>
+     <ror:updatePeriod>daily</ror:updatePeriod>
+     <ror:sortOrder>1</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://sizargenius.in/activities.html</link>
+     <title>MPSS Sizar Genius School, Jaipur * साइजर जीनियस स्कूल, जयपुर *</title>
+     <description>An english medium day boarding CBSE based school at natraj nagar jaipur</description>
+     <ror:updatePeriod>daily</ror:updatePeriod>
+     <ror:sortOrder>1</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+</channel>
+</rss>
+  
